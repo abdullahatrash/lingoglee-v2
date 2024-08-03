@@ -1,0 +1,22 @@
+# Package Managers
+yarn.lock
+package-lock.json
+node_modules
+
+# Editor Configs
+.idea
+.vscode
+.DS_Store
+
+# Miscelaneous
+/.cache
+/build
+/public/build
+.env
+
+# Prisma
+/prisma/data.db
+/prisma/data.db-journal
+
+# Tests
+/coverage
